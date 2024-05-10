@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Users",
+    "name": "Members",
+    "id": 1
+  },
+  {
+    "icon": "NewspaperRegular",
+    "name": "News",
+    "id": 2
+  },
+  {
+    "icon": "Book",
+    "name": "Publications",
+    "id": 3
+  },
+  {
+    "icon": "Tasks",
+    "name": "Open Position",
+    "id": 4
+  },
+  {
+    "icon": "PhotoVideo",
+    "name": "Album",
+    "id": 5
+  },
+  {
+    "icon": "SearchLocation",
+    "name": "Contact Us",
+    "id": 6
+  }
+]

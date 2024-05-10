@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Graduate Student",
+        "href": "",
+        "content": [
+            "The Visual Cognitive Neuroscience (VCN) lab in Division of Psychology, Nanyang Technological University, Singapore is currently looking for graduate students (Ph.D program) who are interested in studying face perception, motion perception and auditory influence on visual perception through psychophysical experiments and/or computational modeling – collaborating with Communication Engineering, computer vision and machine learning. University research scholarship will be provided to qualified students.",
+            "For students who are interested in this program, please send your latest CV (or personal statement), two letters of recommendation and up-to-date college transcript to Dr. Hong XU directly via email: xuhong at ntu.edu.sg."
+        ],
+        "education": [
+            
+        ],
+        "experience": [
+
+        ]
+    },
+    {
+        "name": "Project Officer / Research Associate",
+        "href": "",
+        "content": [
+            "R&D Software Engineer (Software engineering / Software development / Programmer)",
+            "We are looking for a research staff to work in a research team on projects in the area of virtual reality (VR) simulator for walking, cycling and electric personal mobility. In particular, the research staff shall write software codes using the System Development Kit of software packages including Oculus Rift, Microsoft Kinect System, Uc-Win Road (simulation software). These codes should integrate the hardware and the software in the VR simulator. It will facilitate the communication between physical motion sensors and simulation software.",
+            "The research staff will participate in all aspects pertaining to the development of an advanced simulator to be used as an assessment or analytical tool for the design and audit of transport infrastructure including roads, pedestrian pathways and cycling tracks.",
+            "Apart from working on technical aspects of research projects, he/she will also take charge of general matters for the projects, including data management, project documentation, demonstration and presentation."
+        ],
+        "education": [
+            "Bachelor Degree in IT or Computer Science or equivalent field;",
+            "Good knowledge in Delphi or similar programming language;",
+            "Experience in design and development using system development kits (SDK);",
+            "Experience in hardware-in-the-loop (HIL) systems, data acquisition systems, VR systems, hardware and software integration and communication devices.",
+            "Fluency in English is mandatory"
+        ],
+        "experience": [
+            "1 year software development experience"
+        ]
+    }
+]
